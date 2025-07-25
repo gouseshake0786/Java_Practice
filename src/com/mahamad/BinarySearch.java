@@ -6,6 +6,7 @@ public class BinarySearch {
         int target = 9;
         int res = search(arr, target, 0, arr.length - 1);
         System.out.println(res);
+        Math.sqrt(12);
     }
 
     static int search(int[] arr, int target, int start, int end) {
